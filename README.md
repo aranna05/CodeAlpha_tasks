@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,50:2A9D8F,100:E9C46A&height=220&section=header&text=CodeAlpha%20Internship&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Data%20Storytelling&descAlignY=60&descSize=18" alt="CodeAlpha Internship banner" width="100%"/>
 
-<a href="https://github.com/aranna05/Internship_CodeAlpha">
+<a href="https://github.com/aranna05/CodeAlpha_tasks">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2A9D8F&center=true&vCenter=true&width=700&lines=Two+end-to-end+data+science+projects;From+raw+CSV+to+insight+and+prediction;Clean+%E2%86%92+Explore+%E2%86%92+Model+%E2%86%92+Explain" alt="Typing animation" />
 </a>
 
