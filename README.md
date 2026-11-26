@@ -234,6 +234,7 @@ python Sales_Prediction_CodeAlpha/sales_prediction.py
 ## 📜 License
 
 Released under the terms of the [LICENSE](LICENSE) file in this repository.
+Thank You
 
 <div align="center">
 
